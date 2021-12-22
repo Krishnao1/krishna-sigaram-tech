@@ -6,7 +6,6 @@ import {
 import Home from './pages/home';
 import Navbar from './components/navbar';
 import Cart from './components/cart';
-import CartSidebar from './cartSideBar';
 import Header from './components/header';
 
 
